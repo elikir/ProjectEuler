@@ -1,3 +1,6 @@
+#find the difference of the sum of the first 100 natural numbers squared
+# and the square of the sum of the first 100 natural numbers
+
 #sum_squares
 # consumes a number n and produces a sum of EACH square
 # from 1 to n
